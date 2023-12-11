@@ -1,0 +1,5 @@
+Em 1801, sendo base para o que aconteceria mais tarde, o inventor francês
+Joseph-Marie Jacquard, criou a primeira máquina mecânica programável
+do mundo. O aparelho era uma espécie de tear que controlava a
+confecção dos tecidos através de cartões de madeira perfurados. Os
+primeiros computadores usavam cartões perfurados semelhantes.
