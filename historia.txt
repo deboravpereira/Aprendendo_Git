@@ -3,3 +3,13 @@ Joseph-Marie Jacquard, criou a primeira máquina mecânica programável
 do mundo. O aparelho era uma espécie de tear que controlava a
 confecção dos tecidos através de cartões de madeira perfurados. Os
 primeiros computadores usavam cartões perfurados semelhantes.
+
+Já em 1821, 20 anos depois, o matemático inglês Charles Babbage criou
+uma máquina analítica que, a grosso modo, é comparada com o
+computador atual com memória e programas. Graças ao seu invento,
+Babbage é considerado por alguns estudiosos como o “pai da informática”
+
+Em 1848, Ada Lovelace, matemática inglesa, escreveu o primeiro software
+do mundo. Segundo registros, Lovelace, juntou cálculos da máquina
+inventada por Babbage e com isso, basicamente criou um algoritmo, que
+consequentemente, virou um programa de computador
